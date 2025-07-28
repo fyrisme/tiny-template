@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "preserve",
+    "jsx": "react-jsx",
+    "downlevelIteration": true,
+    "lib": ["dom", "esnext"]
+  }
+}

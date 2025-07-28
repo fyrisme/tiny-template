@@ -1,0 +1,13 @@
+@import 'tailwindcss';
+
+@theme {
+  /* configure tailwind here... */
+}
+
+html {
+  font-size: 18px;
+}
+
+body {
+  @apply text-gray-900 bg-gray-200;
+}
